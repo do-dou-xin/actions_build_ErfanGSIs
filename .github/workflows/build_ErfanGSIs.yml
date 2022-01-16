@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.12.8/miui_THYME_21.12.8_6a076263a3_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.1.1.1.DEV/miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
   ROM_NAME: Pixel
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
